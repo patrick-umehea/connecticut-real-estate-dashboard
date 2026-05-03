@@ -49,13 +49,10 @@ This project explores:
 ##  Dashboard Preview
 
 ### Excel Dashboard
-
-[Excel Dashboard]images/Screenshot (75).png
+![Excel Dashboard](images/excel_dashboard.png)
 
 ### Power BI Dashboard
-
-![Power BI Dashboard](image/powerbi_dashboard.png)
-
+![Power BI Dashboard](images/powerbi_dashboard.png)
 ---
 
 ## Tools Used
