@@ -50,7 +50,7 @@ This project explores:
 
 ### Excel Dashboard
 
-[Excel Dashboard](image/excel_dashboard.png)
+[Excel Dashboard]images/Screenshot (75).png
 
 ### Power BI Dashboard
 
