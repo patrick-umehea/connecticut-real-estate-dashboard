@@ -50,11 +50,11 @@ This project explores:
 
 ### Excel Dashboard
 
-[Excel Dashboard](dashboard/excel_dashboard.png)
+[Excel Dashboard](image/excel_dashboard.png)
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](dashboard/powerbi_dashboard.png)
+![Power BI Dashboard](image/powerbi_dashboard.png)
 
 ---
 
